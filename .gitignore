@@ -29,3 +29,4 @@
 # /config/master.key
 db_hbwd.jar
 /lib/tools/*.sql
+.DS_Store
